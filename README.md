@@ -40,4 +40,11 @@ The goal was to build something that demonstrates actual detection engineering a
 
 ->A Python script that authenticates to the Wazuh indexer's REST API, pulls recent alerts filtered by severity, and passes them to a locally-running LLM for summarization of otherwise illegible alert fields.
 
+<img width="771" height="162" alt="image" src="https://github.com/user-attachments/assets/d2676b71-8463-4929-8a56-20120867a74a" />
+<img width="1190" height="898" alt="image" src="https://github.com/user-attachments/assets/dea2b927-af2c-485a-b15b-dfbbb2e6a9cd" />
+<img width="481" height="491" alt="image" src="https://github.com/user-attachments/assets/bd8c1eec-c2a8-40e1-ad8c-de2efdf2055f" />
+
+
+
+
 
